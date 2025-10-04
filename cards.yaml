@@ -1,0 +1,11 @@
+build:
+  version: "3.O"
+
+card:
+  message: "Welcome to Eazy Bank related Card APIs"
+  contactDeatils:
+    name: "Abdullah Khan"
+    email: "abdultechh@gmail.com"
+  onCallSupport:
+    - +965 65781250
+    - +91 9918820024

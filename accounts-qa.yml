@@ -1,0 +1,11 @@
+build:
+  version: "2.O"
+
+accounts:
+  message: "Welcome to Eazy Bank related accounts QA APIs"
+  contactDeatils:
+    name: "Sunjog"
+    email: "sunjog@gmail.com"
+  onCallSupport:
+    - +965 65781250
+    - +91 9918820024
