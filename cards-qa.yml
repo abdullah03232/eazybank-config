@@ -1,7 +1,7 @@
 build:
   version: "2.O"
 
-accounts:
+cards:
   message: "Welcome to Eazy Bank related Cards QA APIs"
   contactDeatils:
     name: "Sunjog"
