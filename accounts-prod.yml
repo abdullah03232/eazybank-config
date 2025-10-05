@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazy Bank related accounts PROD APIs"
   contactDeatils:
     name: "Aman"
-    email: "aman@gmail.com"
+    email: "{cipher}e0bf13243924fb854ad7a40ca2d6ee2f274b440a2471bd474aec13a3754b13ac"
   onCallSupport:
     - +965 65781250
     - +91 9918820024
