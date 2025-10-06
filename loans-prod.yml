@@ -2,7 +2,7 @@ build:
   version: "1.O"
 
 loans:
-  message: "Welcome to Eazy Bank related Loans PROD APIs"
+  message: "Welcome to Eazy Bank related Loans Production APIs"
   contactDeatils:
     name: "Aman"
     email: "aman@gmail.com"
