@@ -2,7 +2,7 @@ build:
   version: "1.O"
 
 cards:
-  message: "Welcome to Eazy Bank related Card Productions APIs"
+  message: "Welcome to Eazy Bank related Card PROD APIs"
   contactDeatils:
     name: "Aman"
     email: "aman@gmail.com"
