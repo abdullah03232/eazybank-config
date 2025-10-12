@@ -2,7 +2,7 @@ build:
   version: "1.O"
 
 accounts:
-  message: "Welcome to Eazy Bank related PROD APIs"
+  message: "Welcome to Eazy Bank related Production APIs"
   contactDeatils:
     name: "Aman"
     email: "{cipher}e0bf13243924fb854ad7a40ca2d6ee2f274b440a2471bd474aec13a3754b13ac"
